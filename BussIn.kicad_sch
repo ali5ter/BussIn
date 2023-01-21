@@ -9,7 +9,7 @@
     (date "2023-01-17")
     (rev "0.1")
     (comment 2 "https://doepfer.de/a100_man/a100t_e.htm")
-    (comment 3 "Doepfer system bus access module")
+    (comment 3 "Used to access the 16 pin version of the Doepfer system bus")
   )
 
   (lib_symbols
